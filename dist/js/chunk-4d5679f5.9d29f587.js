@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-4d5679f5"],{"0eec":function(e,c,t){"use strict";t.r(c);var n=t("7a23"),a=Object(n["H"])("data-v-0c81f478"),u=a((function(e,c,t,a,u,r){return Object(n["q"])(),Object(n["d"])(Object(n["y"])(t.currentView),{class:"body-template"})})),r={name:"NewSageRouterTemplate",props:{currentView:{type:Object,default:null}}};t("d0c3");r.render=u,r.__scopeId="data-v-0c81f478";c["default"]=r},d0c3:function(e,c,t){"use strict";t("e2c1")},e2c1:function(e,c,t){}}]);
-//# sourceMappingURL=chunk-4d5679f5.9d29f587.js.map
